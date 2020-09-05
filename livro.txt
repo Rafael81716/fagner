@@ -1,8 +1,0 @@
-Este é um arquivo de demonstração ok!!!
-vou sair salvando com :wq
-
-
-   VOU ADICIONAR AGORA O CAÍTULO 2
-   Mas este caítulo não esta salvo em um commit, ainda!
-
-
