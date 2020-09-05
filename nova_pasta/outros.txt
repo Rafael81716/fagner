@@ -1,1 +1,16 @@
-kçlkjçlkçlkjçlkjçl
+Editei este arquivo
+
+
+
+
+Mas não vou salvar agora
+O git ainda não mostrou nada 
+
+mas quando eu salvar...
+
+mostrou qeu este arquivo foi alterado
+
+no servidor este arquivo ainda não foi alterado
+.
+
+depois que eu fizer o commit, esta alteração vai estar salva apenas localmente. 
