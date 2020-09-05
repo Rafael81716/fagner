@@ -1,0 +1,2 @@
+Este é um arquivo de demonstração ok!!!
+vou sair salvando com :wq
